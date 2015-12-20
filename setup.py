@@ -29,7 +29,7 @@ setup(
     long_description=readme + '\n\n' + history,
     author="Cisco",
     author_email='ucs-python@cisco.com',
-    url='https://github.com/vijayvikrant/ImcSdk',
+    url='https://github.com/CiscoUcs/ImcSdk',
     packages=[
         'ImcSdk',
     ],

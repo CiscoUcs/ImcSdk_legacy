@@ -5,8 +5,8 @@ ImcSdk
 .. image:: https://img.shields.io/pypi/v/ImcSdk.svg
         :target: https://pypi.python.org/pypi/ImcSdk
 
-.. image:: https://img.shields.io/travis/vijayvikrant/ImcSdk.svg
-        :target: https://travis-ci.org/vijayvikrant/ImcSdk
+.. image:: https://img.shields.io/travis/CiscoUcs/ImcSdk.svg
+        :target: https://travis-ci.org/CiscoUcs/ImcSdk
 
 .. image:: https://ucspython.herokuapp.com/badge.svg  
         :target: https://ucspython.herokuapp.com
