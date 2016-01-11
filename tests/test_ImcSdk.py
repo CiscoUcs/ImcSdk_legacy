@@ -21,7 +21,7 @@ Tests for `ImcSdk` module.
 
 import unittest
 
-from ImcSdk import ImcSdk
+from ImcSdk import *
 
 
 class TestImcSdk(unittest.TestCase):
